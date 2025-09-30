@@ -1,6 +1,6 @@
-# 🚁 UAV-Based Traffic Conflict Analysis  
+# UAV-Based Traffic Conflict Analysis  
 
-This repository contains UAV-powered computer vision pipelines to detect **safety-critical driver behaviors** at intersections. The projects combine **YOLO-based detection**, **ByteTrack multi-object tracking**, and **spatiokinematic conflict detection frameworks** to extract high-resolution behavioral data from drone videos.  
+This repository contains UAV-based computer vision pipelines to detect **safety-critical driver behaviors** at intersections. The projects combine **YOLO-based detection**, **ByteTrack multi-object tracking**, and **spatiokinematic conflict detection frameworks** to extract high-resolution behavioral data from drone videos.  
 
 Two flagship projects are included:  
 
@@ -88,7 +88,7 @@ This module detects **spatiotemporal near-miss events** by overlaying a **grid s
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **YOLOv8 / YOLO11** – Vehicle detection.  
 - **ByteTrack** – Multi-object tracking.  
 - **OpenCV** – Perspective transformation & visualization.  
