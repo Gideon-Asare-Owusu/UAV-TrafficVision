@@ -41,8 +41,9 @@ This module extracts **vehicle trajectories and speeds** from drone footage and 
    - Hard braking summary file logging frame ranges, speed drop %, and movement tags.  
 
 ### 🔹 Demo
-📹 [Watch Example Video](your-link-here)  
-📊 [Sample Hard Braking Output](your-link-here)  
+📹 [High-Speed Intersection Output](Project%201.%20Hard%20Braking%20Detection%20from%20Drone%20Footage/High-Speed%20Intersection%20Video%20Sample%20Output.mp4)  
+📹 [Trial Speed Output](Project%201.%20Hard%20Braking%20Detection%20from%20Drone%20Footage/Trial%20Speed%20Output.mp4)  
+📹 [Speed Sample Video](Project%201.%20Hard%20Braking%20Detection%20from%20Drone%20Footage/Speed%20Sample%20Video.mp4)  
 
 ---
 
@@ -75,8 +76,8 @@ This module detects **spatiotemporal near-miss events** by overlaying a **grid s
      - Conflict tuples (`vehicleA, vehicleB, cell, t1, t2`).  
 
 ### 🔹 Demo
-📹 [Grid Activation Demo](your-link-here)  
-📊 [Near-Miss Sample Output](your-link-here)  
+📹 [Vehicles Activate Cells Sample](Project%202.%20Near%20Miss%20Detection%20from%20Drone%20Footage/Vehicles%20Activate%20Cells%20Sample%20Video.mp4)  
+📹 [Near-Miss Cell Activation Sample](Project%202.%20Near%20Miss%20Detection%20from%20Drone%20Footage/Near-Miss%20Cell%20Activation%20Sample%20Video.mp4)  
 
 ---
 
